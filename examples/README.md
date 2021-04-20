@@ -26,7 +26,7 @@ This repository contains various sets of Jupyter notebooks. The examples in this
 | filename | title | description | features |
 | --- | --- | --- | --- |
 | [Accruals.ipynb](use-cases/cash-management/Accruals.ipynb) | Accruals | Demonstration of how to model accruals in LUSID | cocoon, holdings, transaction configuration |
-| [Booking subscriptions and redemptions.ipynb]("examples/use-cases/cash-management/Booking subscriptions and redemptions.ipynb") | Booking subscriptions and redemptions | Demonstration of how to model subscriptions and redemptions in LUSID | cocoon - seed_data, holdings, transaction configuration |
+| [Booking subscriptions and redemptions.ipynb]("use-cases/cash-management/Booking subscriptions and redemptions.ipynb") | Booking subscriptions and redemptions | Demonstration of how to model subscriptions and redemptions in LUSID | cocoon - seed_data, holdings, transaction configuration |
 | [Manual journal entries to correct cash balances.ipynb]("examples/use-cases/cash-management/Manual journal entries to correct cash balances.ipynb") | Correcting cash balances with manual journal entries | Demonstration of how to model manual journal entries in LUSID | cancel transactions, cocoon, holdings, reconciliations, transaction configuration |
 
 ## examples/use-cases/change-management
