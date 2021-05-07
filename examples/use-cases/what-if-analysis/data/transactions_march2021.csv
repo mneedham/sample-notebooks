@@ -1,0 +1,3 @@
+txn_id,trade_date,transaction_type,instrument_desc,instrument_id,currency,quantity,price,net_money
+tx_00004,2021-03-03,Sell,Dogecoin,DOGE,USD,46000,0.0504409389,2320.2831894
+tx_00005,2021-03-03,Buy,XRP,XRP,USD,5355,0.4331931196,2319.749155458
