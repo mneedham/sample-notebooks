@@ -8,7 +8,7 @@ This repository contains various sets of Jupyter notebooks. The examples in this
 ## examples/features/core-lusid
 | filename | title | description | features |
 | --- | --- | --- | --- |
-| [examples/features/core-lusid/Bi-temporal example.ipynb](Bi-temporal example.ipynb) | Bi-temporal Example | Demonstration of how the asAt date can be used to get data from different system dates. | bi-temporality, cocoon - identify_cash_items, holdings, transaction configuration, transactions |
+| [Bi-temporal example.ipynb]('features/core-lusid/Bi-temporal example.ipynb') | Bi-temporal Example | Demonstration of how the asAt date can be used to get data from different system dates. | bi-temporality, cocoon - identify_cash_items, holdings, transaction configuration, transactions |
 | Cancelling transactions in LUSID.ipynb | Cancelling transactions | Demonstration of how to use the CancelTransactions endpoint to cancel transactions in a LUSID portfolio. | cancel transactions, cocoon - seed_data, holdings, transactions |
 | Derived portfolios.ipynb | Derived portfolios |  | derived portfolios, holdings, transactions |
 | Generating an IBOR extract with LUSID's GetHoldings method.ipynb | Generating an IBOR extract |  | cocoon - seed_data, holdings |
