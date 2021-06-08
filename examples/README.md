@@ -5,10 +5,11 @@ This repository contains various sets of Jupyter notebooks. The examples in this
 * `features` - This folder contains notebooks showing specific LUSID features. For example, there is notebook showing you how to call holdings using a get holdings request. These notebooks are generally short and specific.
 * `use-cases` - This folder contains notebooks showing sample business implementations or use-cases. These notebooks will generally combine various LUSID features to solve a business use-case. For example, there is notebook which uses the LUSID features of derived portfolios, quotes, and get holdings to back-test a trading strategy. These `use-case` notebooks are generally longer than the `feature` ones.
 
+
 ## examples/features/core-lusid
 | filename | title | description | features |
 | --- | --- | --- | --- |
-| [Bi-temporal example.ipynb]('features/core-lusid/Bi-temporal example.ipynb') | Bi-temporal Example | Demonstration of how the asAt date can be used to get data from different system dates. | bi-temporality, cocoon - identify_cash_items, holdings, transaction configuration, transactions |
+| [Bi-temporal example.ipynb](<features/core-lusid/Bi-temporal example.ipynb>) | Bi-temporal Example | Demonstration of how the asAt date can be used to get data from different system dates. | bi-temporality, cocoon - identify_cash_items, holdings, transaction configuration, transactions |
 | Cancelling transactions in LUSID.ipynb | Cancelling transactions | Demonstration of how to use the CancelTransactions endpoint to cancel transactions in a LUSID portfolio. | cancel transactions, cocoon - seed_data, holdings, transactions |
 | Derived portfolios.ipynb | Derived portfolios |  | derived portfolios, holdings, transactions |
 | Generating an IBOR extract with LUSID's GetHoldings method.ipynb | Generating an IBOR extract |  | cocoon - seed_data, holdings |
